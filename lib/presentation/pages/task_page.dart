@@ -5,6 +5,7 @@ import 'package:app_tasks/presentation/providers/task_provider.dart';
 import 'package:app_tasks/presentation/widgets/custom_add_button.dart';
 import 'package:app_tasks/presentation/widgets/custom_dismissed_container.dart';
 import 'package:app_tasks/presentation/widgets/custom_task_item.dart';
+import 'package:app_tasks/presentation/widgets/info_dialog.dart';
 import 'package:app_tasks/presentation/widgets/show_custom_snackbar.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -50,7 +51,6 @@ class TaskPage extends StatelessWidget {
   }
 
 }
-
 
 
 
